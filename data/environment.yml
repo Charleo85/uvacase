@@ -88,4 +88,3 @@ dependencies:
   - jupyter-console==5.1.0
   - jupyter-core==4.3.0
   - prompt-toolkit==1.0.13
-prefix: /Users/wujibang/Developer/Python/anaconda3/envs/uvacase
